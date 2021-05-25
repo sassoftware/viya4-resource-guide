@@ -15,7 +15,7 @@ The [SAS Viya Orders CLI](https://github.com/sassoftware/viya4-orders-cli) can b
 The SAS Viya Infrastruture as Code repositories can be used to create the necessary compute resources for a SAS Viya deployment. The following cloud provider is supported at this time:
 - [SAS Viya Infrastructure as Code - Azure](https://github.com/sassoftware/viya4-iac-azure)
 - [SAS Viya Infrastructure as Code - AWS](https://github.com/sassoftware/viya4-iac-aws)
-- [SAS Viya Infrastructure as Code - Google Cloud Platform (GCP)](https://github.com/sassoftware/viya4-iac-gcp)
+- [SAS Viya Infrastructure as Code - GCP](https://github.com/sassoftware/viya4-iac-gcp)
 
 Once compute infrastructure has been created, run the Pre-Installation Report application in the [SAS Viya Administration Resource Kit](https://github.com/sassoftware/viya4-ark). This application verifies whether sufficient compute resources and permissions are present to support a smooth deployment.
 

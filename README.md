@@ -26,6 +26,8 @@ the process for deploying your SAS Viya software.
 
 When you are ready to deploy SAS Viya, the [SAS Viya Deployment](https://github.com/sassoftware/viya4-deployment) project provides Ansible playbooks to automate the deployment.
 
+If you are using SAS Deployment Operator to deploy SAS Viya, the [SAS Viya Warehouse](https://github.com/sassoftware/viya4-warehouse) project contains all the information that the SAS Deployment Operator needs during the deployment. 
+
 Once the deployment is complete, run the Deployment Report application from the [SAS Viya Administration Resource Kit](https://github.com/sassoftware/viya4-ark) to generate information about the deployment that can be easily shared.
 
 ### Monitoring SAS Viya

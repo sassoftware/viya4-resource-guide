@@ -51,3 +51,4 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 ## Additional Resources
 
 * [SAS Viya Platform Operations Guide](https://documentation.sas.com/?softwareId=mysas&softwareVersion=prod&docsetId=itopswlcm&docsetTarget=home.htm)
+* [SAS Viya Administration Checklist](https://github.com/sassoftware/viya4-admin-checklist)
